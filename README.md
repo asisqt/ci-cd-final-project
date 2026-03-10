@@ -1,4 +1,4 @@
-# Automated CI/CD Pipeline Implementation
+# ci-cd-final-project
 
 ## Project Overview
 This repository contains the final project implementation for the IBM Continuous Integration and Continuous Delivery (CI/CD) course. The objective of this project is to build a robust, automated pipeline that seamlessly integrates code changes, enforces code quality, and deploys the application to a Red Hat OpenShift cluster.
